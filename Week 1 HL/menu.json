@@ -1,0 +1,24 @@
+{
+"Mains": [
+    {"Name":"PanFried Fish",
+        "Veggie":true,
+        "Pescie":true,
+        "Gluten Free":true,
+        "Price":"3.60"
+    },
+    {
+        "Name":"Beefburger",
+        "Veggie": false,
+        "Pescie": false,
+        "Gluten Free": true,
+        "Price":"4.65"
+    },
+    {"Name": "Veggie Burger",
+        "Veggie": true,
+        "Pescie": false,
+        "Gluten Free": true,
+        "Price":"2.55"
+    }
+]
+
+}
